@@ -1,0 +1,38 @@
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe.config
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\bin\Debug\WpfApp5.pdb
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\bin\Debug\Microsoft.Kinect.dll
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\bin\Debug\Microsoft.Kinect.xml
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csprojResolveAssemblyReference.cache
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\obj\Debug\MainWindow.g.cs
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\obj\Debug\App.g.cs
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\obj\Debug\MainWindow.baml
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.g.resources
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.Cache
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.CoreCompileInputs.cache
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
+c:\users\xcui16\source\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\bin\Debug\WpfApp5.exe
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\bin\Debug\WpfApp5.pdb
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\bin\Debug\Microsoft.Kinect.dll
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\bin\Debug\Microsoft.Kinect.xml
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\obj\Debug\WpfApp5.csprojResolveAssemblyReference.cache
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\obj\Debug\MainWindow.g.cs
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\obj\Debug\App.g.cs
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\obj\Debug\MainWindow.baml
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\obj\Debug\WpfApp5.g.resources
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.Cache
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\obj\Debug\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\obj\Debug\WpfApp5.exe
+C:\Users\xcui16\source\repos\Gesture Control with Kinect\WpfApp5\obj\Debug\WpfApp5.pdb
